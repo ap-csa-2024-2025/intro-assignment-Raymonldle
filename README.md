@@ -8,7 +8,7 @@
 3. On the bottom left, click the person icon, and login to your GitHub account.
 4. Clone the correct repository.
 5. Make changes to any files.
-6. Commit your files with a commit message.
+6. Commit your files with a commidst message.
 7. Synchronize your repository.
 
 ## About Me
