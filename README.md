@@ -13,6 +13,6 @@
 
 ## About Me
 Answer the questions below
-* Something interesting about me is
-* Ask Mr. Vu anything:
-* List your sports and extracurriculars you participate in
+* Something interesting about me is i have a cat but i have cat allergies
+* Ask Mr. Vu anything: when did you get ur haircut?
+* I swim and compete in competitions
