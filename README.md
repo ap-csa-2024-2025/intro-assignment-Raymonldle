@@ -13,6 +13,6 @@
 
 ## About Me
 Answer the questions below
-* Something interesting about me is i have a cat but i have cat allergies
+* Something interesting about me is i have a cat but i have cat allergies i also have a FAT crush on ALAN DAM
 * Ask Mr. Vu anything: when did you get ur haircut?
 * I swim and compete in competitions
